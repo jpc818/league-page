@@ -48,8 +48,7 @@ export const managers = [
       "name": "Дорогой лидер",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Colorado", // (optional)
-      "bio": "Привет, я большой поклонник Влада Путина, и я также люблю торговать изнасилованием и использовать людей с плохими знаниями в области фэнтези-футбола.
-",
+      "bio": "Привет, я большой поклонник Влада Путина, и я также люблю торговать изнасилованием и использовать людей с плохими знаниями в области фэнтези-футбола.",
       "photo": "/managers/gary cooper.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ari", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
