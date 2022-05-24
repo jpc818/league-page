@@ -95,12 +95,12 @@ export const managers = [
       "bio": "Rape Pilliage and Plunder",
       "photo": "/managers/anthony kuchan.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "gbp", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Smeagol Jizz", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/dane steel.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/gollum.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 8079, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -114,7 +114,7 @@ export const managers = [
       "name": "Smeagol Jizz",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Washington", // (optional)
-      "bio": "Gollum, originally named Sméagol (or Trahald), was at first a Stoor, one of the three early Hobbit-types. The name Gollum was derived from the sound of his gurgling, choking cough.",
+      "bio": "Once a Stoorish hobbit, born in TA 2430, Sméagol spent the early years of his life living with his extended family under a Matriarch, his grandmother. Around the year TA 2463, Sméagol became the fourth Bearer of the One Ring, after Sauron, Isildur, and Déagol. Déagol was his cousin, and on Sméagol's birthday, they went fishing in the Gladden Fields. It was there that Déagol found a gold Ring in the water, after being pulled out of their boat by a large fish. Almost immediately, Sméagol fell to the power of the Ring, demanding it as a birthday present. When Déagol refused, Sméagol promptly flew into a rage and fought with Déagol over the Ring, choking him to death and taking the Ring as his own. Sméagol was quickly corrupted further by the Ring and banished by his people; turned by his grandmother out of her hole, he was forced to find a home in a cave in the Misty Mountains in around TA 2470. The Ring's malignant influence twisted his Hobbit body, as well as his mind, and prolonged his life far beyond its natural limits. He called it his "Precious" or his "Birthday Present," the latter as a replacement in his mind for killing Déagol.",
       "photo": "/managers/gollum.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -139,7 +139,7 @@ export const managers = [
       "bio": "I did not mean to click the accept button. It was an oopsie",
       "photo": "/managers/carl culichula.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "nos", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "2023 Sleeper Champion 🏆", // Can be anything (usually your rival's name)
@@ -147,7 +147,7 @@ export const managers = [
         image: "/managers/darren small.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4035, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "It was an Oopsie!",
       "tradingScale": 4, // 1 - 10
