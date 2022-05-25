@@ -48,7 +48,7 @@ export const managers = [
       "name": "Дорогой лидер",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Colorado", // (optional)
-      "bio": "Привет, я большой поклонник Влада Путина, и я также люблю торговать изнасилованием и использовать людей с плохими знаниями в области фэнтези-футбола.",
+      "bio": "is an American stand-up comedian, actor, and author. Cosby began his career as a stand-up comic at the hungry i nightclub in San Francisco during the 1960s. Throughout the decade he released several standup comedy records which consecutively earned him the Grammy Award for Best Comedy Album from 1965 to 1970. He also had a starring role in the television crime show I Spy (1965–1968) opposite Robert Culp. Cosby made history when he won the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series in 1966, making him the first African American to earn an Emmy Award for acting. His acting career continued as he starred in the sitcom The Bill Cosby Show, which ran for two seasons from 1969 to 1971.",
       "photo": "/managers/gary cooper.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ari", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
